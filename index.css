@@ -1,0 +1,54 @@
+body {
+   font-family: Arial, sans-serif;
+   background-image: url("images/loveu.gif");
+   
+}
+.container {
+    max-width: 400px;
+    margin-top:150px;
+    padding: 20px;
+    background-color: pink;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.love-meter {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid black !important;
+    border-radius: 3px;
+    background-color: lightpink;
+}
+
+button {
+    background-color: #ff6b6b !important;
+    margin-left: 80px !important;
+    border-color: black !important;
+    border-radius: 3px;
+    cursor: pointer;
+    border-radius: 20px !important;
+    text-align: center;
+}
+
+#love-result {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#zodiac-result {
+    margin-top: 10px;
+}
+
+.image1-container{
+    height: 170px;
+}
